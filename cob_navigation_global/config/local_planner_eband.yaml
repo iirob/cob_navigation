@@ -12,11 +12,11 @@ yaw_goal_tolerance: 0.04
 tolerance_timeout: 0.5
 
 k_prop: 4.0
-k_damp: 3.5
+k_damp: 4.0
 
 Ctrl_Rate: 15.0
 
-max_acceleration: 0.3
+max_acceleration: 0.15
 virtual_mass: 0.75
 
 max_translational_acceleration: 0.3
